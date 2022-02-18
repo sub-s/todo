@@ -12,7 +12,7 @@ function App() {
 
   const onChangeText = (e) => setCurrentText(e.target.value);
 
-  console.log(onChangeText, "::::::::::::::::");
+  console.log(onChangeText, ":::::::::::::::: 브랜치 dev생성");
 
   const handleBtn = (e) => {
     
