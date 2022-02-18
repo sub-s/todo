@@ -4,7 +4,7 @@ import './Btn.css';
 
 const Btn = (props) => {
     return (
-        <button>{props.children}</button>
+        <input type={props.type} />
     );   
 }
 
